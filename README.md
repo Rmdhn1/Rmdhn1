@@ -66,7 +66,6 @@ I hope i make an impression
 </table>
 
 <details>
-<summary><b>🏗️ Architecture, Security & Tooling</b> — <sub>click to expand</sub></summary>
 
 <br/>
 </details>
@@ -82,7 +81,7 @@ I hope i make an impression
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamadbettal&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=00000000&stroke=30363D&sideLabels=8B949E&dates=6E7681" alt="GitHub contribution streak" />
 
 </div>
-1
+
 
 <div align="center">
 
