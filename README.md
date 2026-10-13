@@ -74,13 +74,11 @@ I hope i make an impression
 
 ## 📊 GitHub in Numbers
 
-<div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamadbettal&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&background=00000000&stroke=30363D&sideLabels=8B949E&dates=6E7681" alt="GitHub contribution streak" />
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Rmdhn1/Rmdhn1/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Rmdhn1/Rmdhn1/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 
 <div align="center">
